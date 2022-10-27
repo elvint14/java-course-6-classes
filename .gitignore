@@ -4,11 +4,11 @@
 .project
 
 # files in the root folder only
-./*.iml
+/*.iml
 
 # folders in all subfolders
-./target/
+/target/
 
 # folders in the root rolder only
-./.idea/
-./.settings/
+/.idea/
+/.settings/
