@@ -1,1 +1,8 @@
 Recap lessons here
+
+- git add .
+- git commit -m "your message"
+- git status
+- git push origin master
+
+- git pull origin master
