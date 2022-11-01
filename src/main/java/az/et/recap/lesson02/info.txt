@@ -1,0 +1,4 @@
+Topics to cover:
+    - build tools (maven/gradle)
+    - unit testing
+    - java 8 features
