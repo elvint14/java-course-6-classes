@@ -27,18 +27,18 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.3.7</version>
+            <version>42.5.0</version>
         </dependency>
 
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>11.0.10</version>
+            <version>11.0.12</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>11.0.9</version>
+            <version>11.0.12</version>
         </dependency>
 
         <dependency>
@@ -46,15 +46,6 @@
             <artifactId>jackson-databind</artifactId>
             <version>2.13.4.2</version>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml -->
-        <dependency>
-            <groupId>com.fasterxml.jackson.dataformat</groupId>
-            <artifactId>jackson-dataformat-xml</artifactId>
-            <version>2.13.4</version>
-        </dependency>
-
-
 
     </dependencies>
 
