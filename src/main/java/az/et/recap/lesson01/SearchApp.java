@@ -1,4 +1,4 @@
-package az.et.recap;
+package az.et.recap.lesson01;
 
 public class SearchApp {
     public static void main(String[] args) {
