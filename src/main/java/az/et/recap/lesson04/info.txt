@@ -1,0 +1,7 @@
+Topics to cover:
+    - input->process->output
+        * MVC (MVT) pattern
+        * controller, service, dao(repo)
+        * package management
+    - container technology (docker)
+    - database intro, relational vs others (nosql, graph etc.)
