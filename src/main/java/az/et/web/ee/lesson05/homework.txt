@@ -1,0 +1,3 @@
+Homeworks:
+    - docker reading and practice
+    - sql (w3school -> till where)
