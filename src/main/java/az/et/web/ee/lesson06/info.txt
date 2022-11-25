@@ -4,4 +4,4 @@ Lesson06 topics
     - dml
 
 PLEASE, READ ALL THE MATERIALS AND PRACTICE!!!
-w3school.com
+w3schools.com
