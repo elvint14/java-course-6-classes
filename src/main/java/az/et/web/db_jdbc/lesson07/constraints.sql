@@ -6,7 +6,7 @@ create table users
 
 select * from users;
 insert into users values (null, 'a');
-insert into users values (null, 'b', null);
+-- insert into users values (null, 'b', null);
 alter table users add column pin varchar(7);
 drop table users;
 

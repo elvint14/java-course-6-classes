@@ -26,7 +26,7 @@ order by CustomerID;
 delete   from customers where customerid = 92;
 
 alter table customers ADD column silinmeli varchar(10);
-update customers set silinmeli = 'added';
+-- update customers set silinmeli = 'added';
 update customers set silinmeli = 'even_row' where mod(customerid, 2) = 0;
 update customers set silinmeli = 'odd_row' where mod(customerid, 2) <> 0;
 alter table customers drop silinmeli;
