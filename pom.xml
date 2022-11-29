@@ -24,12 +24,12 @@
         <!--            <version>31.1-jre</version>-->
         <!--        </dependency>-->
 
-        <!--        &lt;!&ndash; https://mvnrepository.com/artifact/org.postgresql/postgresql &ndash;&gt;-->
-        <!--        <dependency>-->
-        <!--            <groupId>org.postgresql</groupId>-->
-        <!--            <artifactId>postgresql</artifactId>-->
-        <!--            <version>42.5.0</version>-->
-        <!--        </dependency>-->
+        <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.5.0</version>
+        </dependency>
 
         <!--        <dependency>-->
         <!--            <groupId>org.eclipse.jetty</groupId>-->

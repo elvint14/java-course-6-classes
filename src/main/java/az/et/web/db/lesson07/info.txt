@@ -3,8 +3,3 @@ Lesson07 topics
 
 PLEASE, READ ALL THE MATERIALS AND PRACTICE!!!
 w3schools.com
-
-relations:
-    - 1-1
-    - 1:m
-    - m:n

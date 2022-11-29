@@ -1,0 +1,11 @@
+Lesson08 topics
+    - dml (continued-x2)
+    - jdbc
+
+PLEASE, READ ALL THE MATERIALS AND PRACTICE!!!
+w3schools.com
+
+relations:
+    - 1-1
+    - 1:m
+    - m:n
