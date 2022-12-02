@@ -33,9 +33,10 @@ public class JdbcExampleApp {
             }
             System.out.println("=============");
 
-            String deleteCountryById = "DELETE from countries where id = 1 and name = ?;";
+            String deleteCountryById = "DELETE from countries where id = ? and name = ?;";
             PreparedStatement del = connection.prepareStatement(deleteCountryById);
             del.setInt(1, 2);
+            del.setString(1, "'elvin' or 1=1");
             int delCount = del.executeUpdate();
             System.out.println("Rows added:" + delCount);
 
