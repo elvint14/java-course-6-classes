@@ -14,3 +14,7 @@ Web intro:
     - CSS
     - JavaScript
     - jQuery
+
+https://roadmap.sh/backend
+https://www.restapitutorial.com/httpstatuscodes.html
+https://www.restapitutorial.com/lessons/httpmethods.html
