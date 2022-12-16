@@ -1,2 +1,7 @@
 Lesson11 topics:
-    -
+    - hello world servlet
+    - static servlet
+    - redirect servlet
+    - calculator servlet
+    - calculator app using functional interfaces and lambda expression
+    - registration app using register servlet, business logic, postgres db + docker
