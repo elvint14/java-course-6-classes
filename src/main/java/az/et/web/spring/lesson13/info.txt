@@ -1,0 +1,23 @@
+Lesson13 topics:
+    - Framework vs Library
+    - Lifecycle
+    - Project initializing
+    - Spring Project
+    - Spring Core
+    - Spring MVC
+    - Spring Boot
+    - Inversion of Control & Dependency Injection
+        * Setter injection
+        * Constructor injection
+    - @SpringBootApplication
+    - @Controller
+    - @RequestMapping
+    - @RequestBody
+    - Thymeleaf, Project Lombok
+    - @Data
+    - @Value
+    - @AllArgsConstructor d. @NoArgConstructor
+    - Consuming and serving REST
+    - @RequestParam b. @ResponseBody c. @PathVariable
+    - @RestController e. @Service
+    - @Repository g. @Autowired
