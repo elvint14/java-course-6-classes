@@ -1,0 +1,9 @@
+Lesson13 topics:
+    - Spring Beans
+    - Spring Beans Lifecycle
+    - Inversion of Control & Dependency Injection
+        * Setter injection
+        * Constructor injection
+    - Spring Validation
+    - Exception Handling
+    - Logging. Swagger
