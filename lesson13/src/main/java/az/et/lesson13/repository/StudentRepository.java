@@ -1,6 +1,7 @@
 package az.et.lesson13.repository;
 
 import az.et.lesson13.model.Student;
+import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
@@ -9,7 +10,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
-@Repository
+@Component
 public class StudentRepository {
 
     public static final List<Student> STUDENTS = new ArrayList<>(
